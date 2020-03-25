@@ -1,0 +1,7 @@
+main: dev.nodex0.spigot.resurrectplugin.ResurrectPlugin
+name: ResurrectPlugin
+version: 0.1
+commands:
+  resurrect:
+    description: Return tou your death point
+    usage: /<command>
